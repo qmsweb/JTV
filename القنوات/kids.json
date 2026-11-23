@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 1,
-  "updated": "2026-11-23T05:13:33+03:00",
+  "revision": 2,
+  "updated": "2026-11-23T07:00:00+04:00",
   "channel": {
     "id": "kids",
     "name": "جاسم كيدز",
@@ -16,12 +16,144 @@
   },
   "items": [
     {
+      "id": "steamboat_willie",
+      "title": "ستيمبوت ويلي",
+      "description": "رسوم متحركة كلاسيكية (1928) وأول ظهور لميكي ماوس، بموسيقى وحركة بلا حوار.",
+      "url": "https://archive.org/download/steamboat-willie-1928_FHD_Blu-ray/Steamboat%20Willie%20(1928).mp4",
+      "duration": 467,
+      "category": "رسوم متحركة",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/steamboat-willie-1928_FHD_Blu-ray"
+    },
+    {
+      "id": "alice_1915",
+      "title": "أليس في بلاد العجائب (1915)",
+      "description": "المغامرة الكلاسيكية المصورة بالألوان: أليس تسقط في جحر الأرنب وتلتقي بشخصيات غريبة.",
+      "url": "https://archive.org/download/alice-in-wonderland-1915-colortinted/Alice%20in%20Wonderland%201915%20-%20Colortinted.mp4",
+      "duration": 3821,
+      "category": "خيال",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/alice-in-wonderland-1915-colortinted"
+    },
+    {
+      "id": "snow_white_1916",
+      "title": "سنو وايت (1916)",
+      "description": "أقدم نسخة سينمائية من حكاية سنو وايت، صامتة وبأزياء وديكور مسرحي.",
+      "url": "https://archive.org/download/snow-white-1916_202507/Snow%20White%20(1916).mp4",
+      "duration": 3778,
+      "category": "خيال",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/snow-white-1916_202507"
+    },
+    {
+      "id": "cinderella_1914",
+      "title": "سندريلا (1914)",
+      "description": "حكاية سندريلا مع ماري بيكفورد، من أفلام هوليوود الأولى.",
+      "url": "https://archive.org/download/BillSpragueCollectionCinderella-MaryPickford-1914-PUBLICDOMAIN/Cinderella%20(1914)%20Silent.mp4",
+      "duration": 3075,
+      "category": "خيال",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/BillSpragueCollectionCinderella-MaryPickford-1914-PUBLICDOMAIN"
+    },
+    {
+      "id": "peter_pan_1924",
+      "title": "بيتر بان (1924)",
+      "description": "النسخة الصامتة الأصلية: بيتر بان يطير بأطفال عائلة دارلينغ إلى أرض النيفرلاند.",
+      "url": "https://archive.org/download/peter-pan-1924-by-herbert-brenon/Peter.Pan.1924.1080p.BluRay.x264-%5BYTS.LT%5D.mp4",
+      "duration": 6075,
+      "category": "مغامرة",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/peter-pan-1924-by-herbert-brenon"
+    },
+    {
+      "id": "wizard_oz_1925",
+      "title": "ساحر أوز (1925)",
+      "description": "نسخة 1925 من القصة الشهيرة، مع أوليفر هاردي في دور الشرير ومشاهد مدهشة.",
+      "url": "https://archive.org/download/the-wizard-of-oz-1925/The%20Wizard%20of%20Oz%20(1925).ia.mp4",
+      "duration": 4299,
+      "category": "مغامرة",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/the-wizard-of-oz-1925"
+    },
+    {
+      "id": "blue_bird_1918",
+      "title": "الطائر الأزرق (1918)",
+      "description": "رحلة سحرية لطفلين يبحثان عن الطائر الأزرق، بأسلوب مسرحي وخيال بصري.",
+      "url": "https://archive.org/download/the_blue_bird/The%20Blue%20Bird%20(1918)%20Famous%20Players%20Lasky%20Corp..mp4",
+      "duration": 4802,
+      "category": "خيال",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/the_blue_bird"
+    },
+    {
+      "id": "prince_achmed_1926",
+      "title": "الأمير أحمد (1926)",
+      "description": "أقدم فيلم رسوم متحركة طويل باقٍ: ظلال ورقية ساحرة تحكي حكاية من ألف ليلة وليلة.",
+      "url": "https://archive.org/download/the-adventures-of-prince-achmed-1926-by-carl-koch/The.Adventures.Of.Prince.Achmed.1926.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4",
+      "duration": 3969,
+      "category": "رسوم متحركة",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/the-adventures-of-prince-achmed-1926-by-carl-koch"
+    },
+    {
+      "id": "pollyanna_1920",
+      "title": "بوليانا (1920)",
+      "description": "فتاة متفائلة تغيّر حياة بلدة كاملة، فيلم عائلي عن اللطف والفرح.",
+      "url": "https://archive.org/download/pollyanna-1920/Pollyanna%20(1920).ia.mp4",
+      "duration": 3815,
+      "category": "عائلي",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/pollyanna-1920"
+    },
+    {
+      "id": "lost_world_1925",
+      "title": "العالم المفقود (1925)",
+      "description": "بعثة تكتشف ديناصورات حية في هضبة أمازونية، مع مؤثرات حركية رائدة.",
+      "url": "https://archive.org/download/the-lost-world-1925/The%20Lost%20World%20(1925).ia.mp4",
+      "duration": 5528,
+      "category": "مغامرة",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/the-lost-world-1925"
+    },
+    {
+      "id": "sherlock_jr_1924",
+      "title": "شيرلوك جونيور (1924)",
+      "description": "عامل سينما يحلم بأن يصبح محققًا، فيدخل داخل الشاشة في مغامرة كوميدية.",
+      "url": "https://archive.org/download/sherlock-jr.-1924-by-buster-keaton/Sherlock.Jr..1924.1080p.BluRay.x264-%5BYTS.AM%5D.mp4",
+      "duration": 2674,
+      "category": "كوميديا",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/sherlock-jr.-1924-by-buster-keaton"
+    },
+    {
+      "id": "the_general_1926",
+      "title": "الجنرال (1926)",
+      "description": "كوميديا قطارات شهيرة: سائق يحاول استعادة قاطرة حبيبته، بمطاردات مذهلة.",
+      "url": "https://archive.org/download/the-general-1926_202601/The%20General%20(1926).ia.mp4",
+      "duration": 4786,
+      "category": "كوميديا",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/the-general-1926_202601"
+    },
+    {
+      "id": "thief_bagdad_1924",
+      "title": "سارق بغداد (1924)",
+      "description": "مغامرة ألف ليلة وليلة: أمير يبحث عن حبه عبر سجون ووحوش وبساط طائر.",
+      "url": "https://archive.org/download/the-thief-of-bagdad-1924-by-raoul-walsh/The.Thief.Of.Bagdad.1924.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4",
+      "duration": 8930,
+      "category": "مغامرة",
+      "license": "Public Domain",
+      "source": "https://archive.org/details/the-thief-of-bagdad-1924-by-raoul-walsh"
+    },
+    {
       "id": "bbb",
       "title": "مغامرة الأرنب",
       "description": "فيلم عائلي عن أرنب طيب يكتشف أن العطاء أقوى من الانتقام.",
-      "url": "https://s8-5042yyg.s1q2105.com/hls/LFhboxKsqDNqcenfSXhN8Dd5Tktvq0dg/index_1920x1080.m3u8?token=9a329f713afe91f3b69931bf7797d2ab-1795430847-37.40.239.180-20f7bd178c00d144980f80a09c26414fdd014c596a9b2a956c388ff4033e5ca3",
+      "url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
       "duration": 596,
-      "category": "عائلي"
+      "category": "عائلي",
+      "license": "CC BY 3.0",
+      "source": "https://peach.blender.org/"
     },
     {
       "id": "bunny_trailer",
