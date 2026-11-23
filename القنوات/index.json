@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "updated": "2026-11-23T05:13:33+03:00",
+  "note": "الملف العام لربط القنوات. أضف ملف القناة داخل هذا المجلد ثم سجّله هنا.",
+  "channels": [
+    {
+      "id": "one",
+      "file": "one.json"
+    },
+    {
+      "id": "kids",
+      "file": "kids.json"
+    },
+    {
+      "id": "cinema",
+      "file": "cinema.json"
+    },
+    {
+      "id": "docs",
+      "file": "docs.json"
+    },
+    {
+      "id": "music",
+      "file": "music.json"
+    },
+    {
+      "id": "sports",
+      "file": "sports.json"
+    }
+  ]
+}

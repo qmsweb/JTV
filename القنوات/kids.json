@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "updated": "2026-11-23T05:13:33+03:00",
+  "channel": {
+    "id": "kids",
+    "name": "جاسم كيدز",
+    "tagline": "عالم آمن للصغار",
+    "logo": "https://raw.githubusercontent.com/qmsweb/JTV/main/logos/kids.png",
+    "accent": "#216AF1"
+  },
+  "broadcast": {
+    "anchor": "2026-11-23T00:00:00+03:00",
+    "loop": true,
+    "note": "التوقيت يُحسب من anchor ثم يتكرر حسب مدد items. لا حاجة لتعديل أي شيء آخر عند إعادة الترتيب."
+  },
+  "items": [
+    {
+      "id": "bbb",
+      "title": "مغامرة الأرنب",
+      "description": "فيلم عائلي عن أرنب طيب يكتشف أن العطاء أقوى من الانتقام.",
+      "url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+      "duration": 596,
+      "category": "عائلي"
+    },
+    {
+      "id": "bunny_trailer",
+      "title": "مقدمة: عالم الأرنب",
+      "description": "لمحة سريعة عن عالم الأرنب ورفاقه.",
+      "url": "https://media.w3.org/2010/05/bunny/trailer.mp4",
+      "duration": 33,
+      "category": "أطفال"
+    },
+    {
+      "id": "movie300",
+      "title": "حكاية المدينة",
+      "description": "مشاهد قصيرة عن المدينة والناس والضوء.",
+      "url": "https://media.w3.org/2010/05/video/movie_300.mp4",
+      "duration": 300,
+      "category": "منوعات"
+    },
+    {
+      "id": "filler",
+      "title": "فاصل هوية",
+      "description": "فاصل قصير يحمل هوية JTV بين البرامج.",
+      "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "duration": 10,
+      "category": "فاصل"
+    }
+  ]
+}

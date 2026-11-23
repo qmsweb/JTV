@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "updated": "2026-11-23T05:13:33+03:00",
+  "channel": {
+    "id": "music",
+    "name": "جاسم ميوزك",
+    "tagline": "إيقاع لا يتوقف",
+    "logo": "https://raw.githubusercontent.com/qmsweb/JTV/main/logos/music.png",
+    "accent": "#216AF1"
+  },
+  "broadcast": {
+    "anchor": "2026-11-23T00:00:00+03:00",
+    "loop": true,
+    "note": "التوقيت يُحسب من anchor ثم يتكرر حسب مدد items. لا حاجة لتعديل أي شيء آخر عند إعادة الترتيب."
+  },
+  "items": [
+    {
+      "id": "sintel_trailer",
+      "title": "إعلان: سينتل",
+      "description": "إعلان قصير عن رحلة سينتل.",
+      "url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
+      "duration": 52,
+      "category": "سينما"
+    },
+    {
+      "id": "movie300",
+      "title": "حكاية المدينة",
+      "description": "مشاهد قصيرة عن المدينة والناس والضوء.",
+      "url": "https://media.w3.org/2010/05/video/movie_300.mp4",
+      "duration": 300,
+      "category": "منوعات"
+    },
+    {
+      "id": "bbb",
+      "title": "مغامرة الأرنب",
+      "description": "فيلم عائلي عن أرنب طيب يكتشف أن العطاء أقوى من الانتقام.",
+      "url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+      "duration": 596,
+      "category": "عائلي"
+    },
+    {
+      "id": "filler",
+      "title": "فاصل هوية",
+      "description": "فاصل قصير يحمل هوية JTV بين البرامج.",
+      "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
+      "duration": 10,
+      "category": "فاصل"
+    }
+  ]
+}

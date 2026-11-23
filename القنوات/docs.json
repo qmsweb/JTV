@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "updated": "2026-11-23T05:13:33+03:00",
+  "channel": {
+    "id": "docs",
+    "name": "جاسم دوكس",
+    "tagline": "قصص من العالم",
+    "logo": "https://raw.githubusercontent.com/qmsweb/JTV/main/logos/docs.png",
+    "accent": "#216AF1"
+  },
+  "broadcast": {
+    "anchor": "2026-11-23T00:00:00+03:00",
+    "loop": true,
+    "note": "التوقيت يُحسب من anchor ثم يتكرر حسب مدد items. لا حاجة لتعديل أي شيء آخر عند إعادة الترتيب."
+  },
+  "items": [
+    {
+      "id": "elephants",
+      "title": "حلم الفيل",
+      "description": "رحلة غريبة بين آلات عملاقة وعالم لا يشبه أي شيء.",
+      "url": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+      "duration": 653,
+      "category": "وثائقي"
+    },
+    {
+      "id": "sintel",
+      "title": "سينتل: الرحلة",
+      "description": "فتاة وبحثها الطويل عن صديق مفقود في عالم قاسٍ وجميل.",
+      "url": "https://archive.org/download/Sintel/sintel-2048-surround.mp4",
+      "duration": 888,
+      "category": "سينما"
+    },
+    {
+      "id": "movie300",
+      "title": "حكاية المدينة",
+      "description": "مشاهد قصيرة عن المدينة والناس والضوء.",
+      "url": "https://media.w3.org/2010/05/video/movie_300.mp4",
+      "duration": 300,
+      "category": "منوعات"
+    }
+  ]
+}

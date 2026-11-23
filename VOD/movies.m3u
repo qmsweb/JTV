@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="m1" tvg-logo="https://raw.githubusercontent.com/qmsweb/JTV/main/logos/one.png" group-title="أفلام",مغامرة الأرنب
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-id="m2" tvg-logo="https://raw.githubusercontent.com/qmsweb/JTV/main/logos/docs.png" group-title="أفلام",حلم الفيل
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 tvg-id="m3" tvg-logo="https://raw.githubusercontent.com/qmsweb/JTV/main/logos/cinema.png" group-title="أفلام",سينتل: الرحلة
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 tvg-id="m4" tvg-logo="https://raw.githubusercontent.com/qmsweb/JTV/main/logos/one.png" group-title="أفلام",حكاية المدينة
+https://media.w3.org/2010/05/video/movie_300.mp4
+#EXTINF:-1 tvg-id="m5" tvg-logo="https://raw.githubusercontent.com/qmsweb/JTV/main/logos/kids.png" group-title="أفلام",عالم الأرنب — مقدمة
+https://media.w3.org/2010/05/bunny/trailer.mp4
+#EXTINF:-1 tvg-id="m6" tvg-logo="https://raw.githubusercontent.com/qmsweb/JTV/main/logos/cinema.png" group-title="أفلام",سينتل — إعلان
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
